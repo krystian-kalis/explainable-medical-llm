@@ -1,0 +1,101 @@
+id,opis,oczekiwane,kategoria_modelu,wyjasnienie_modelu
+1,"Pacjent zgłasza nagły, silny ból w klatce piersiowej promieniujący do lewej ręki, duszność, zimne poty i nudności.",PILNE,PILNE,Opisuje objawy typowe dla zawału serca. Wymaga natychmiastowej pomocy medycznej w SOR.
+2,"Nagłe osłabienie prawej strony ciała, opadanie kącika ust, problemy z mową, objawy pojawiły się godzinę temu.",PILNE,PILNE,"Objawy wskazują na potencjalny udar mózgu, wymagający natychmiastowej pomocy medycznej w szpitalu."
+3,"Silny ból głowy o nagłym początku, najsilniejszy w życiu, sztywność karku i nudności.",PILNE,PILNE,"Silny, nagły ból głowy z towarzyszącymi objawami takimi jak sztywność karku i nudności mogą wskazywać na poważne schorzenie, np. udar mózgu."
+4,"Pacjent po urazie głowy, chwilowa utrata przytomności, dezorientacja i wymioty.",PILNE,PILNE,"Utrata przytomności, dezorientacja i wymioty po urazie głowy wskazują na potencjalne poważne uszkodzenie mózgu."
+5,"Wysoka gorączka powyżej 39 stopni, dreszcze, przyspieszony oddech i spadek ciśnienia.",PILNE,PILNE,"Wysoka gorączka, dreszcze, przyspieszony oddech i spadek ciśnienia mogą wskazywać na poważną infekcję lub stan septyczny."
+6,"Nagła duszność, świszczący oddech, obrzęk warg i języka po użądleniu owada.",PILNE,PILNE,"Objawy wskazują na poważną reakcję alergiczną (anaphilaxja), wymagającą natychmiastowej pomocy medycznej."
+7,"Silny ból brzucha z twardością powłok, nasilający się przy dotyku, gorączka.",PILNE,PILNE,Silny ból brzucha z twardością i gorączką mogą wskazywać na poważne zapalenie otrzewnej lub inne stan zapalny narządów wewnętrznych.
+8,"Obfite krwawienie z przewodu pokarmowego, czarne stolce i osłabienie.",PILNE,PILNE,"Obfite krwawienie z przewodu pokarmowego i czarne stolce wskazują na poważne problemy żołądkowo-jelitowe, wymagające natychmiastowej pomocy medycznej."
+9,"Pacjent z cukrzycą, splątany, zimna skóra, drżenie rąk, bardzo niskie stężenie glukozy.",PILNE,PILNE,"Pacjent wykazuje objawy hipoglikemii (niskie stężenie glukozy), które mogą grozić życiu. Wymaga natychmiastowej pomocy medycznej."
+10,"Nagły spadek widzenia w jednym oku, bez bólu, objawy od kilkunastu minut.",PILNE,PILNE,Nagły spadek widzenia może być oznaką poważnego problemu neurologicznego lub naczyniowego wymagającego natychmiastowej oceny medycznej.
+11,"Silny ból w klatce piersiowej nasilający się przy oddychaniu, kaszel z krwią.",PILNE,PILNE,Silny ból w klatce piersiowej i kaszel z krwią mogą wskazywać na poważne problemy kardiologiczne lub płucne wymagające natychmiastowej pomocy medycznej.
+12,"Ostry ból brzucha po prawej stronie, gorączka, nudności, brak apetytu.",PILNE,DO LEKARZA,"Objawy takie jak ostry ból brzucha, gorączka i nudności mogą wskazywać na infekcję lub inne schorzenia wymagające wizyty u lekarza."
+13,"Nagłe kołatanie serca, zawroty głowy, uczucie omdlewania.",PILNE,PILNE,Objawy sugerują potencjalny problem kardiologiczny wymagający natychmiastowej oceny medycznej w SOR.
+14,"Uraz komunikacyjny, ból kręgosłupa, drętwienie kończyn dolnych.",PILNE,DO LEKARZA,"Uraz komunikacyjny i drętwienie mogą wskazywać na problem nerwowy lub ucisk na nerwy w kręgosłupie, wymagające wizyty lekarskiej."
+15,"Wysoka gorączka u dziecka, sztywność karku, nadwrażliwość na światło.",PILNE,PILNE,"Objawy takie jak wysoka gorączka, sztywność karku i nadwrażliwość na światło mogą wskazywać na meningit, stan wymagający natychmiastowej pomocy medycznej."
+16,"Nagła utrata przytomności u osoby starszej, brak kontaktu przez kilka minut.",PILNE,PILNE,"Nagła utrata przytomności i brak kontaktu wskazują na poważne zagrożenie życia, możliwe udar lub inne medyczne problemy wymagające natychmiastowej interwencji."
+17,"Silna reakcja alergiczna po leku, pokrzywka, duszność, spadek ciśnienia.",PILNE,PILNE,"Silna reakcja alergiczna z pokrzywką, dusznością i spadkiem ciśnienia wskazuje na anafilaksję, stan wymagający natychmiastowej pomocy medycznej."
+18,"Ostry ból jądra, nagły początek, nudności.",PILNE,PILNE,"Ostry ból jądra, zwłaszcza nagły, może wskazywać na zwichnięcie lub inne poważne urazy, wymagające natychmiastowej pomocy medycznej."
+19,Pacjent zgłasza silny ból w klatce piersiowej połączony z dusznością i kaszlem.,PILNE,PILNE,"Silny ból w klatce piersiowej, duszność i kaszel mogą wskazywać na poważne problemy kardiologiczne lub chorobę płucną wymagające natychmiastowej pomocy medycznej."
+20,Nagłe pogorszenie stanu chorego onkologicznego z dusznością i bólem.,PILNE,PILNE,"Nagłe pogorszenie stanu pacjenta onkologicznego z dusznością i bólem wymaga natychmiastowej pomocy medycznej, możliwe komplikacje wymagające SOR."
+21,Drgawki u osoby dorosłej bez wcześniejszej padaczki.,PILNE,PILNE,"Drgawki u dorosłego bez historii padaczki mogą wskazywać na poważne zagrożenie dla życia, wymagające natychmiastowej pomocy medycznej."
+22,Nagły silny ból pleców z osłabieniem nóg i zaburzeniem czucia.,PILNE,PILNE,"Objawy sugerują potencjalne uszkodzenie rdzenia kręgowego, co wymaga natychmiastowej oceny medycznej."
+23,"Ostra duszność nocna, pienista wydzielina z ust.",PILNE,PILNE,"Objawy takie jak ostra duszność i pienista wydzielina wskazują na potencjalny stan zagrożenia życia, wymagający natychmiastowej pomocy medycznej."
+24,Zatrzymanie oddawania moczu z silnym bólem podbrzusza.,PILNE,PILNE,"Zatrzymanie oddawania moczu z silnym bólem podbrzusza może wskazywać na poważne zapalenie pęcherza lub kamicę nerkową, wymagające natychmiastowej opieki medycznej."
+25,Ciężkie odwodnienie z zaburzeniami świadomości.,PILNE,PILNE,"Ciężkie odwodnienie może szybko zagrozić życiu, a zaburzenia świadomości wskazują na poważny problem. Wymaga natychmiastowej pomocy medycznej."
+26,"Gorączka około 38 stopni utrzymująca się od 3 dni, kaszel, osłabienie.",DO LEKARZA,DO LEKARZA,"Gorączka trwająca dłużej niż dwa dni i towarzyszące jej objawy jak kaszel i osłabienie wskazują na infekcje, wymagające konsultacji lekarskiej."
+27,"Ból brzucha trwający kilka dni, okresowe nudności, brak poprawy.",DO LEKARZA,DO LEKARZA,Ból brzucha utrzymujący się przez kilka dni i nudności sugerują możliwość poważniejszego problemu wymagającego diagnostyki lekarskiej.
+28,"Ból ucha, pogorszenie słuchu, stan podgorączkowy.",DO LEKARZA,DO LEKARZA,Ból ucha i pogorszenie słuchu wskazują na potencjalne zapalenie ucha środkowego. Stan podgorączkowy wymaga konsultacji lekarskiej.
+29,"Nawracające bóle głowy, nasilające się przy stresie.",DO LEKARZA,DO LEKARZA,"Nawracające bóle głowy mogą wskazywać na różne schorzenia, a ich nasilanie pod wpływem stresu wymaga konsultacji lekarskiej."
+30,"Kaszel z odkrztuszaniem wydzieliny, gorączka, ból w klatce piersiowej przy kaszlu.",DO LEKARZA,DO LEKARZA,"Objawy wskazują na potencjalne zapalenie płuc lub infekcję dróg oddechowych, które wymagają diagnostyki lekarskiej."
+31,"Ból w dolnej części pleców promieniujący do nogi, utrzymujący się od tygodnia.",DO LEKARZA,DO LEKARZA,Ból w plecach trwający tydzień i promieniowanie do nogi mogą wskazywać na poważniejsze schorzenie niż zwykłe skurcze mięśniowe.
+32,"Częste oddawanie moczu, pieczenie, stan podgorączkowy.",DO LEKARZA,DO LEKARZA,"Objawy wskazują na możliwe zakażenie układu moczowego, które wymaga wizyty lekarskiej dla postawienia diagnozy i rozpoczęcia leczenia."
+33,"Nasilający się ból kolana, obrzęk, ograniczenie ruchu.",DO LEKARZA,DO LEKARZA,"Nasilający się ból, obrzęk i ograniczenie ruchomości wskazują na potencjalne zapalenie stawów lub uraz, wymagające diagnozy medycznej."
+34,"Ból gardła, powiększone migdałki, gorączka.",DO LEKARZA,DO LEKARZA,"Objawy wskazują na prawdopodobną infekcję górnych dróg oddechowych, która wymaga wizyty u lekarza w celu postawienia diagnozy i ewentualnego przepisania leczenia."
+35,"Nawracające bóle brzucha po posiłkach, wzdęcia.",DO LEKARZA,DO LEKARZA,"Nawracające bóle brzucha mogą być spowodowane różnymi problemami, a wzdęcia wskazują na możliwą dysfunkcje trawienną. Wizyta u lekarza pomoże ustalić przyczynę i zalecić odpowiednie leczenie."
+36,"Wysypka skórna utrzymująca się kilka dni, świąd.",DO LEKARZA,DO LEKARZA,"Utrzymująca się wysypka i świąd mogą wskazywać na alergię lub infekcję, które wymagają diagnozy i leczenia."
+37,"Ból w klatce piersiowej o charakterze kłującym, nasilający się przy ruchu.",DO LEKARZA,PILNE,Ból w klatce piersiowej może być oznaką choroby serca i wymaga natychmiastowej oceny medycznej.
+38,"Zawroty głowy przy zmianie pozycji, bez utraty przytomności.",DO LEKARZA,DO LEKARZA,"Zawroty głowy przy zmianie pozycji mogą wskazywać na problem z krążeniem lub równowagą, wymagające diagnozy i ewentualnego leczenia."
+39,"Ból zęba nasilający się w nocy, obrzęk dziąsła.",DO LEKARZA,DO LEKARZA,Zaostrzające się bóle zębów i obrzęk dziąseł wskazują na potencjalne zapalenie zęba lub innego stanu wymagającego wizyty stomatologicznej.
+40,"Przewlekły kaszel u palacza, stopniowe pogorszenie tolerancji wysiłku.",DO LEKARZA,DO LEKARZA,"Stopniowe pogorszenie tolerancji wysiłku u palacza sugeruje potencjalne problemy z układami oddechowym lub krążeniowym, wymagające wizyty lekarskiej."
+41,Ból brzucha i biegunka utrzymujące się ponad tydzień.,DO LEKARZA,DO LEKARZA,Prolongowane bóle brzucha i biegunka mogą wskazywać na infekcję lub inne schorzenie wymagające diagnozy i leczenia.
+42,"Uczucie ucisku w klatce piersiowej przy wysiłku, ustępujące w spoczynku.",DO LEKARZA,DO LEKARZA,Objawy takie jak uczucie ucisku w klatce piersiowej mogą wskazywać na problem z sercem i wymagają konsultacji lekarskiej.
+43,"Ból barku ograniczający ruch, bez urazu.",DO LEKARZA,DO LEKARZA,Ból ograniczający ruch wymaga konsultacji lekarza w celu ustalenia przyczyny i leczenia.
+44,"Nasilające się zmęczenie, bladość skóry, zawroty głowy.",DO LEKARZA,DO LEKARZA,"Nasilające się zmęczenie i bladość mogą wskazywać na poważniejszy problem, dlatego wizyta u lekarza jest zalecana."
+45,"Problemy ze snem, przewlekłe napięcie i bóle głowy.",DO LEKARZA,DO LEKARZA,"Przewlekłe napięcie i bóle głowy mogą wskazywać na poważniejsze problemy zdrowotne, wymagające konsultacji lekarskiej."
+46,Ból nadgarstka utrzymujący się od kilku dni.,DO LEKARZA,DO LEKARZA,"Utrzymujący się ból nadgarstka przez kilka dni może wskazywać na uraz lub zapalenie, wymagające diagnozy i leczenia."
+47,"Ból stopy przy chodzeniu, bez urazu.",DO LEKARZA,DO LEKARZA,"Ból stopy podczas chodzenia może wskazywać na wiele przyczyn, od zwyrodnień po infekcje. Warto skonsultować się z lekarzem dla dokładnej diagnozy i leczenia."
+48,Utrata masy ciała bez zmiany diety.,DO LEKARZA,DO LEKARZA,"Utrata masy ciała bez zmiany diety może wskazywać na szereg problemów zdrowotnych, wymagających diagnostyki medycznej."
+49,Nawracające infekcje górnych dróg oddechowych.,DO LEKARZA,DO OBSERWACJI,"Nawracające infekcje górnych dróg oddechowych często przebiegają łagodnie i ustępują samoistnie. Pacjent może prowadzić normalny tryb życia, obserwując objawy."
+50,Długotrwała chrypka i uczucie drapania w gardle.,DO LEKARZA,DO LEKARZA,"Długotrwały kaszel i dyskomfort w gardle mogą wskazywać na infekcję lub zapalenie, które wymagają oceny lekarskiej."
+51,"Lekki ból gardła i katar trwające od wczoraj, bez gorączki.",DO OBSERWACJI,DO OBSERWACJI,Objawy sugerują łagodne przeziębienie. Brak gorączki wskazuje na łagodny przebieg.
+52,Okresowy ból głowy ustępujący po odpoczynku.,DO OBSERWACJI,DO OBSERWACJI,"Okresowy ból głowy, ustępujący po odpoczynku, wskazuje na łagodną przyczynę, np. stres lub zmęczenie."
+53,Ból mięśni po intensywnym wysiłku fizycznym.,DO OBSERWACJI,DO OBSERWACJI,"Ból mięśni po intensywnym wysiłku jest częstym zjawiskiem, zazwyczaj ustępuje samoistnie w ciągu kilku dni."
+54,"Niewielka gorączka 37.5 stopnia, złe samopoczucie.",DO OBSERWACJI,DO OBSERWACJI,Łagodna gorączka i złe samopoczucie wskazują na możliwe przeziębienie. Pacjent jest stabilny i objawy nie są alarmistyczne.
+55,"Ból brzucha po obfitym posiłku, ustępujący samoistnie.",DO OBSERWACJI,DO OBSERWACJI,"Objawy są łagodne i ustępują samoistnie, prawdopodobnie spowodowane nadmiernym jedzeniem. "
+56,Zatkany nos i kichanie w okresie pylenia.,DO OBSERWACJI,DO OBSERWACJI,"Objawy są typowe dla alergii sezonowej, łagodne i ustępują zazwyczaj samoistnie."
+57,Lekki ból kolana po długim spacerze.,DO OBSERWACJI,DO OBSERWACJI,Lekki ból kolana po wysiłku fizycznym jest częstym i zazwyczaj łagodnym objawem. Można zastosować odpoczynek i leki przeciwbólowe.
+58,Okresowe kołatanie serca w sytuacjach stresowych.,DO OBSERWACJI,RACZEJ BŁAHE,"Kołatanie serca w stresujących momentach jest częstym objawem, który zazwyczaj nie stanowi zagrożenia dla zdrowia."
+59,Niewielkie zawroty głowy przy odwodnieniu.,DO OBSERWACJI,DO OBSERWACJI,Zawroty głowy związane z odwodnieniem są zazwyczaj łagodne i ustępują po nawodnieniu.
+60,Przemijający ból pleców po długim siedzeniu.,DO OBSERWACJI,RACZEJ BŁAHE,"Przemijający ból pleców to częsty problem, który ustępuje po odpoczynku. Nie wymaga interwencji medycznej."
+61,Lekka biegunka trwająca jeden dzień.,DO OBSERWACJI,DO OBSERWACJI,"Lekka biegunka trwająca jeden dzień to zazwyczaj łagodny problem, który samoczynnie ustąpi. Warto pić dużo płynów."
+62,Zmęczenie po kilku dniach intensywnej pracy.,DO OBSERWACJI,DO OBSERWACJI,"Zmęczenie jest częstym objawem, zwłaszcza po intensywnym wysiłku. Nie wskazuje na poważne zagrożenie zdrowia."
+63,Ból głowy związany z brakiem snu.,DO OBSERWACJI,DO OBSERWACJI,"Ból głowy spowodowany brakiem snu jest częstym i zazwyczaj łagodnym dolegliwością, która ustępuje po odpoczynku."
+64,Lekki kaszel bez innych objawów.,DO OBSERWACJI,DO OBSERWACJI,"Lekki kaszel bez innych objawów wskazuje na prawdopodobnie łagodne przeziębienie, które znika samoistnie."
+65,"Niewielkie bóle brzucha u dziecka, bez innych objawów.",DO OBSERWACJI,DO OBSERWACJI,"Niewielki ból brzucha sam w sobie nie wskazuje na poważne zagrożenie, warto obserwować dziecko i szukać innych objawów."
+66,Uczucie suchości w gardle.,DO OBSERWACJI,DO OBSERWACJI,"Suchość w gardle jest częstym objawem, często związanym z suchym powietrzem lub przeziębieniem. Nie wskazuje na poważny stan zdrowia."
+67,Delikatna wysypka po nowym kosmetyku.,DO OBSERWACJI,RACZEJ BŁAHE,"Wysypka po użyciu nowego kosmetyku jest zwykle reakcją alergiczną, łagodną i ustępującą samoistnie."
+68,Ból karku po spaniu w niewygodnej pozycji.,DO OBSERWACJI,DO OBSERWACJI,"Ból karku po złej pozycji to częsty, łagodny problem, który zwykle ustępuje samoczynnie."
+69,Okresowe bóle głowy przy zmianie pogody.,DO OBSERWACJI,DO OBSERWACJI,Bóle głowy związane z pogodą są powszechne i zazwyczaj nie stanowią poważnego zagrożenia dla zdrowia.
+70,Krótkotrwałe uczucie osłabienia po stresie.,DO OBSERWACJI,RACZEJ BŁAHE,"Objaw jest krótkotrwały i związany ze stresem, co wskazuje na stan fizjologiczny."
+71,Przejściowy ból brzucha po stresującej sytuacji.,DO OBSERWACJI,DO OBSERWACJI,"Przejściowy ból brzucha po stresie może być spowodowany napięciem mięśni, a nie poważnym problemem zdrowotnym. Warto jednak obserwować objawy i skonsultować się z lekarzem jeśli będą się nasilać."
+72,Lekki ból stawu po wysiłku.,DO OBSERWACJI,DO OBSERWACJI,Lekki ból jest częstym objawem i zazwyczaj ustępuje samoistnie. Warto obserwować stan.
+73,Niewielkie drętwienie palców po zimnie.,DO OBSERWACJI,RACZEJ BŁAHE,"Drętwienie palców po narażeniu na zimno jest częstym, łagodnym objawem i ustępuje zazwyczaj samoistnie."
+74,Uczucie ciężkości nóg po długim staniu.,DO OBSERWACJI,DO OBSERWACJI,"Uciśnienie nóg po długotrwałym stawaniu jest powszechnym zjawiskiem, które zazwyczaj ustępuje po odpoczynku. "
+75,Przemijające nudności bez wymiotów.,DO OBSERWACJI,DO OBSERWACJI,"Przemijające nudności bez innych towarzyszących objawów to zwykle łagodny problem, który może ustąpić samoistnie."
+76,Lekki katar bez innych objawów.,RACZEJ BŁAHE,DO OBSERWACJI,"Lekki katar jest zazwyczaj łagodnym, samoistnie ustępującym objawem przeziębienia."
+77,Ból mięśni po siłowni.,RACZEJ BŁAHE,RACZEJ BŁAHE,"Ból mięśniowy po treningu jest normalnym zjawiskiem, zazwyczaj ustępuje samoistnie w ciągu kilku dni."
+78,Zmęczenie po nieprzespanej nocy.,RACZEJ BŁAHE,RACZEJ BŁAHE,"Zmęczenie po niewyspieniu jest częstym dolegliwością, która zazwyczaj ustępuje samoistnie po odpoczynku."
+79,Jednorazowy ból głowy ustępujący po nawodnieniu.,RACZEJ BŁAHE,DO OBSERWACJI,"Jednorazowy, ustępujący ból głowy zazwyczaj nie jest powodem do niepokoju. Nawodnienie może być pomocne w łagodzeniu bólu."
+80,Drobne skaleczenie palca.,RACZEJ BŁAHE,RACZEJ BŁAHE,"Skaleczenie palca to drobna rana, która nie wymaga natychmiastowej pomocy medycznej. Może być leczone w domu."
+81,Niewielkie zaczerwienienie skóry po słońcu.,RACZEJ BŁAHE,RACZEJ BŁAHE,"Zaczerwienienie po słońcu jest powszechnym, łagodnym i przemijającym objawem."
+82,Krótkotrwały ból brzucha przed posiłkiem.,RACZEJ BŁAHE,DO OBSERWACJI,"Ból brzucha przed posiłkiem może być spowodowany głodem lub niedowagą, nie wskazuje na poważne zagrożenie zdrowia."
+83,Chwilowe uczucie zimna bez gorączki.,RACZEJ BŁAHE,RACZEJ BŁAHE,"Chwilowe uczucie zimna samoistnie ustępuje, nie towarzyszy mu gorączka ani inne niepokojące objawy."
+84,Swędzenie skóry po ukąszeniu komara.,RACZEJ BŁAHE,RACZEJ BŁAHE,"Swędzenie skóry po ukąszeniu komara to normalna reakcja alergiczna, zazwyczaj łagodna i samoistnie ustępująca."
+85,Ból głowy po długim czasie przed ekranem.,RACZEJ BŁAHE,DO OBSERWACJI,"Ból głowy po długotrwałym skupieniu się na ekranie jest częstym problemem, często wynikającym z zmęczenia oczu i napięcia mięśniowego. Zaleca się odpoczynek i krótkie przerwy od pracy przy komputerze."
+86,Kichanie rano po przebudzeniu.,RACZEJ BŁAHE,DO OBSERWACJI,"Kichanie rano jest częstym objawem alergii lub zwykłego kataru, który zwykle ustępuje samoistnie."
+87,Uczucie pełności po obfitym posiłku.,RACZEJ BŁAHE,RACZEJ BŁAHE,"Uczucie pełności to normalna reakcja na obfity posiłek, zazwyczaj ustępuje samoistnie."
+88,Delikatny ból gardła po rozmowie na zimnie.,RACZEJ BŁAHE,DO OBSERWACJI,"Delikatny ból gardła jest częstym objawem przeziębienia, który zazwyczaj ustępuje samoistnie w ciągu kilku dni."
+89,Przemijające zawroty głowy po szybkim wstaniu.,RACZEJ BŁAHE,DO OBSERWACJI,"Zawroty głowy po zmianie pozycji mogą być spowodowane niedociśnieniem, co jest częstym i zazwyczaj łagodnym problemem."
+90,Niewielki ból stawu po zmianie pogody.,RACZEJ BŁAHE,DO OBSERWACJI,"Niewielki ból stawu jest częstym objawem, zwłaszcza przy zmianach pogody. Nie wskazuje na poważny stan zdrowia."
+91,Lekki ból brzucha po stresie.,RACZEJ BŁAHE,DO OBSERWACJI,Lekki ból brzucha może być spowodowany stresem i zazwyczaj ustępuje samoczynnie. Warto jednak obserwować ewentualne zmiany.
+92,Zmęczenie po długim dniu.,RACZEJ BŁAHE,RACZEJ BŁAHE,Zmęczenie po długim dniu jest normalnym odczuciem i zazwyczaj nie wymaga żadnej interwencji medycznej.
+93,Chwilowy dyskomfort w klatce piersiowej przy zdenerwowaniu.,RACZEJ BŁAHE,DO OBSERWACJI,"Objaw może wskazywać na stres lub napięcie mięśniowe, nie jest to typowy objaw poważnej choroby serca."
+94,Ból karku po pracy przy komputerze.,RACZEJ BŁAHE,DO OBSERWACJI,"Ból karku po pracy przy komputerze jest częstym problemem, który zazwyczaj ustępuje samodzielnie. "
+95,Jednorazowe uczucie nudności bez innych objawów.,RACZEJ BŁAHE,RACZEJ BŁAHE,Jednorazowe nudności nie wskazują na poważne zagrożenie zdrowia. Prawdopodobnie są spowodowane czynnikami przejściowymi.
+96,Lekki świąd skóry bez zmian widocznych.,RACZEJ BŁAHE,RACZEJ BŁAHE,"Lekki świąd skóry bez innych objawów wskazuje na dolegliwości kosmetyczne lub chwilowe, nie wymagające natychmiastowej interwencji."
+97,Uczucie zimnych dłoni w chłodnym otoczeniu.,RACZEJ BŁAHE,RACZEJ BŁAHE,Uczucia zimna w dłoniach w chłodnym otoczeniu są normalne i nie wskazują na poważne problemy zdrowotne.
+98,Chwilowe mrowienie ręki po ucisku.,RACZEJ BŁAHE,RACZEJ BŁAHE,"Mrowienie ręki po ucisku jest objawem zazwyczaj łagodnym i przejściowym, związanym z naciskiem na nerw."
+99,Niewielkie napięcie mięśni szyi.,RACZEJ BŁAHE,DO OBSERWACJI,"Lekkie napięcie mięśń szyi nie wskazuje na poważny stan zdrowia. Warto obserwować, czy objawy się nasilą."
+100,Krótkotrwały ból ucha po zmianie ciśnienia.,RACZEJ BŁAHE,RACZEJ BŁAHE,"Ból ucha po zmianie ciśnienia jest częstym i krótkotrwałym problemem, który zazwyczaj ustępuje samoczynnie."

@@ -1,0 +1,104 @@
+id,description,label
+1,"Pacjent zgłasza nagły, silny ból w klatce piersiowej promieniujący do lewej ręki, duszność, zimne poty i nudności.",PILNE
+2,"Nagłe osłabienie prawej strony ciała, opadanie kącika ust, problemy z mową, objawy pojawiły się godzinę temu.",PILNE
+3,"Silny ból głowy o nagłym początku, najsilniejszy w życiu, sztywność karku i nudności.",PILNE
+4,"Pacjent po urazie głowy, chwilowa utrata przytomności, dezorientacja i wymioty.",PILNE
+5,"Wysoka gorączka powyżej 39 stopni, dreszcze, przyspieszony oddech i spadek ciśnienia.",PILNE
+6,"Nagła duszność, świszczący oddech, obrzęk warg i języka po użądleniu owada.",PILNE
+7,"Silny ból brzucha z twardością powłok, nasilający się przy dotyku, gorączka.",PILNE
+8,"Obfite krwawienie z przewodu pokarmowego, czarne stolce i osłabienie.",PILNE
+9,"Pacjent z cukrzycą, splątany, zimna skóra, drżenie rąk, bardzo niskie stężenie glukozy.",PILNE
+10,"Nagły spadek widzenia w jednym oku, bez bólu, objawy od kilkunastu minut.",PILNE
+11,"Silny ból w klatce piersiowej nasilający się przy oddychaniu, kaszel z krwią.",PILNE
+12,"Ostry ból brzucha po prawej stronie, gorączka, nudności, brak apetytu.",PILNE
+13,"Nagłe kołatanie serca, zawroty głowy, uczucie omdlewania.",PILNE
+14,"Uraz komunikacyjny, ból kręgosłupa, drętwienie kończyn dolnych.",PILNE
+15,"Wysoka gorączka u dziecka, sztywność karku, nadwrażliwość na światło.",PILNE
+16,"Nagła utrata przytomności u osoby starszej, brak kontaktu przez kilka minut.",PILNE
+17,"Silna reakcja alergiczna po leku, pokrzywka, duszność, spadek ciśnienia.",PILNE
+18,"Ostry ból jądra, nagły początek, nudności.",PILNE
+19,"Pacjent zgłasza silny ból w klatce piersiowej połączony z dusznością i kaszlem.",PILNE
+20,"Nagłe pogorszenie stanu chorego onkologicznego z dusznością i bólem.",PILNE
+21,"Drgawki u osoby dorosłej bez wcześniejszej padaczki.",PILNE
+22,"Nagły silny ból pleców z osłabieniem nóg i zaburzeniem czucia.",PILNE
+23,"Ostra duszność nocna, pienista wydzielina z ust.",PILNE
+24,"Zatrzymanie oddawania moczu z silnym bólem podbrzusza.",PILNE
+25,"Ciężkie odwodnienie z zaburzeniami świadomości.",PILNE
+
+26,"Gorączka około 38 stopni utrzymująca się od 3 dni, kaszel, osłabienie.",DO LEKARZA
+27,"Ból brzucha trwający kilka dni, okresowe nudności, brak poprawy.",DO LEKARZA
+28,"Ból ucha, pogorszenie słuchu, stan podgorączkowy.",DO LEKARZA
+29,"Nawracające bóle głowy, nasilające się przy stresie.",DO LEKARZA
+30,"Kaszel z odkrztuszaniem wydzieliny, gorączka, ból w klatce piersiowej przy kaszlu.",DO LEKARZA
+31,"Ból w dolnej części pleców promieniujący do nogi, utrzymujący się od tygodnia.",DO LEKARZA
+32,"Częste oddawanie moczu, pieczenie, stan podgorączkowy.",DO LEKARZA
+33,"Nasilający się ból kolana, obrzęk, ograniczenie ruchu.",DO LEKARZA
+34,"Ból gardła, powiększone migdałki, gorączka.",DO LEKARZA
+35,"Nawracające bóle brzucha po posiłkach, wzdęcia.",DO LEKARZA
+36,"Wysypka skórna utrzymująca się kilka dni, świąd.",DO LEKARZA
+37,"Ból w klatce piersiowej o charakterze kłującym, nasilający się przy ruchu.",DO LEKARZA
+38,"Zawroty głowy przy zmianie pozycji, bez utraty przytomności.",DO LEKARZA
+39,"Ból zęba nasilający się w nocy, obrzęk dziąsła.",DO LEKARZA
+40,"Przewlekły kaszel u palacza, stopniowe pogorszenie tolerancji wysiłku.",DO LEKARZA
+41,"Ból brzucha i biegunka utrzymujące się ponad tydzień.",DO LEKARZA
+42,"Uczucie ucisku w klatce piersiowej przy wysiłku, ustępujące w spoczynku.",DO LEKARZA
+43,"Ból barku ograniczający ruch, bez urazu.",DO LEKARZA
+44,"Nasilające się zmęczenie, bladość skóry, zawroty głowy.",DO LEKARZA
+45,"Problemy ze snem, przewlekłe napięcie i bóle głowy.",DO LEKARZA
+46,"Ból nadgarstka utrzymujący się od kilku dni.",DO LEKARZA
+47,"Ból stopy przy chodzeniu, bez urazu.",DO LEKARZA
+48,"Utrata masy ciała bez zmiany diety.",DO LEKARZA
+49,"Nawracające infekcje górnych dróg oddechowych.",DO LEKARZA
+50,"Długotrwała chrypka i uczucie drapania w gardle.",DO LEKARZA
+
+51,"Lekki ból gardła i katar trwające od wczoraj, bez gorączki.",DO OBSERWACJI
+52,"Okresowy ból głowy ustępujący po odpoczynku.",DO OBSERWACJI
+53,"Ból mięśni po intensywnym wysiłku fizycznym.",DO OBSERWACJI
+54,"Niewielka gorączka 37.5 stopnia, złe samopoczucie.",DO OBSERWACJI
+55,"Ból brzucha po obfitym posiłku, ustępujący samoistnie.",DO OBSERWACJI
+56,"Zatkany nos i kichanie w okresie pylenia.",DO OBSERWACJI
+57,"Lekki ból kolana po długim spacerze.",DO OBSERWACJI
+58,"Okresowe kołatanie serca w sytuacjach stresowych.",DO OBSERWACJI
+59,"Niewielkie zawroty głowy przy odwodnieniu.",DO OBSERWACJI
+60,"Przemijający ból pleców po długim siedzeniu.",DO OBSERWACJI
+61,"Lekka biegunka trwająca jeden dzień.",DO OBSERWACJI
+62,"Zmęczenie po kilku dniach intensywnej pracy.",DO OBSERWACJI
+63,"Ból głowy związany z brakiem snu.",DO OBSERWACJI
+64,"Lekki kaszel bez innych objawów.",DO OBSERWACJI
+65,"Niewielkie bóle brzucha u dziecka, bez innych objawów.",DO OBSERWACJI
+66,"Uczucie suchości w gardle.",DO OBSERWACJI
+67,"Delikatna wysypka po nowym kosmetyku.",DO OBSERWACJI
+68,"Ból karku po spaniu w niewygodnej pozycji.",DO OBSERWACJI
+69,"Okresowe bóle głowy przy zmianie pogody.",DO OBSERWACJI
+70,"Krótkotrwałe uczucie osłabienia po stresie.",DO OBSERWACJI
+71,"Przejściowy ból brzucha po stresującej sytuacji.",DO OBSERWACJI
+72,"Lekki ból stawu po wysiłku.",DO OBSERWACJI
+73,"Niewielkie drętwienie palców po zimnie.",DO OBSERWACJI
+74,"Uczucie ciężkości nóg po długim staniu.",DO OBSERWACJI
+75,"Przemijające nudności bez wymiotów.",DO OBSERWACJI
+
+76,"Lekki katar bez innych objawów.",RACZEJ BŁAHE
+77,"Ból mięśni po siłowni.",RACZEJ BŁAHE
+78,"Zmęczenie po nieprzespanej nocy.",RACZEJ BŁAHE
+79,"Jednorazowy ból głowy ustępujący po nawodnieniu.",RACZEJ BŁAHE
+80,"Drobne skaleczenie palca.",RACZEJ BŁAHE
+81,"Niewielkie zaczerwienienie skóry po słońcu.",RACZEJ BŁAHE
+82,"Krótkotrwały ból brzucha przed posiłkiem.",RACZEJ BŁAHE
+83,"Chwilowe uczucie zimna bez gorączki.",RACZEJ BŁAHE
+84,"Swędzenie skóry po ukąszeniu komara.",RACZEJ BŁAHE
+85,"Ból głowy po długim czasie przed ekranem.",RACZEJ BŁAHE
+86,"Kichanie rano po przebudzeniu.",RACZEJ BŁAHE
+87,"Uczucie pełności po obfitym posiłku.",RACZEJ BŁAHE
+88,"Delikatny ból gardła po rozmowie na zimnie.",RACZEJ BŁAHE
+89,"Przemijające zawroty głowy po szybkim wstaniu.",RACZEJ BŁAHE
+90,"Niewielki ból stawu po zmianie pogody.",RACZEJ BŁAHE
+91,"Lekki ból brzucha po stresie.",RACZEJ BŁAHE
+92,"Zmęczenie po długim dniu.",RACZEJ BŁAHE
+93,"Chwilowy dyskomfort w klatce piersiowej przy zdenerwowaniu.",RACZEJ BŁAHE
+94,"Ból karku po pracy przy komputerze.",RACZEJ BŁAHE
+95,"Jednorazowe uczucie nudności bez innych objawów.",RACZEJ BŁAHE
+96,"Lekki świąd skóry bez zmian widocznych.",RACZEJ BŁAHE
+97,"Uczucie zimnych dłoni w chłodnym otoczeniu.",RACZEJ BŁAHE
+98,"Chwilowe mrowienie ręki po ucisku.",RACZEJ BŁAHE
+99,"Niewielkie napięcie mięśni szyi.",RACZEJ BŁAHE
+100,"Krótkotrwały ból ucha po zmianie ciśnienia.",RACZEJ BŁAHE
